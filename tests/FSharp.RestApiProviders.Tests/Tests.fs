@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module FSharp.RestApiProviders.Tests
 
-open FSharp.ProjectTemplate
+open FSharp.RestApiProviders
 open NUnit.Framework
 
 [<Test>]

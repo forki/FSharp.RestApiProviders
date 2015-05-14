@@ -1,0 +1,23 @@
+type project
+owners
+    Marcus Griep (marcus@griep.us)
+authors 
+    Marcus Griep (marcus@griep.us)
+projectUrl
+    http://github.com/neoeinstein/FSharp.RestApiProviders
+iconUrl
+    https://raw.githubusercontent.com/neoeinstein/FSharp.RestApiProviders/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/neoeinstein/FSharp.RestApiProviders/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp rest typeprovider
+summary
+    Type providers for RESTful APIs
+description
+    Description not set
+
+

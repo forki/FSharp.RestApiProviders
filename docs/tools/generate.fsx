@@ -11,17 +11,17 @@
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
 let referenceBinaries = []
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/FSharp.RestApiProviders"
 
-let githubLink = "http://github.com/##GitHome##/##GitName##"
+let githubLink = "http://github.com/neoeinstein/FSharp.RestApiProviders"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "FSharp.RestApiProviders"
+    "project-author", "Marcus Griep (marcus@griep.us)"
+    "project-summary", "Type providers for RESTful APIs"
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/FSharp.RestApiProviders" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below

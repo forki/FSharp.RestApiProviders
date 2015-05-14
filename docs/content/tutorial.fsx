@@ -10,8 +10,8 @@ Introducing your project
 Say more
 
 *)
-#r "FSharp.ProjectScaffold.dll"
-open FSharp.ProjectScaffold
+#r "FSharp.RestApiProviders.dll"
+open FSharp.RestApiProviders
 
 Library.hello 0
 (**
